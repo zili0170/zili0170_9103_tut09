@@ -3,6 +3,10 @@
 ## 1:Imaging Technique Inspiration
 ## Inspiration Source: Recursive Tree Growth Animation (Sketch #760845)
 ## I was inspired by the recursive tree growth animation, which creates an evolving visual structure through symmetrical branching. The gradual, natural expansion of the form reflects organic life while maintaining a geometric logic. This technique aligns well with our project’s goals by showcasing how simple rules can generate complex visuals. The recursive nature of the animation mimics how nature builds complexity from repetition, which is something I’d like to explore in my own work. I believe this method is both effective and educational, as it bridges coding logic with visual expression.
+
+![Tree 1](image/Tree%201.png)
+![Tree 2](image/Tree%202.png)
+
 ## 2: Coding Technique Exploration
 ## Technique: Recursive Tree Drawing in p5.js
 [Apple tree growing] (https://openprocessing.org/sketch/760845)
